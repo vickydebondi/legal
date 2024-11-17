@@ -3,13 +3,13 @@
 At **VeryGood.**, we prioritize the privacy and security of our users’ data. Our Chrome Extension is designed to enhance account management and marketing activities while ensuring that all data handling is fully under the user’s control. This privacy policy outlines how we handle data and our commitment to safeguarding user privacy.
 
 ## Data Collection and Usage
-• No Data Collection: **VeryGood.** does not collect, process, or transmit any user data to external servers. All data interactions occur entirely on the user’s local device or within the user’s configured cloud storage solution.
+- No Data Collection: **VeryGood.** does not collect, process, or transmit any user data to external servers. All data interactions occur entirely on the user’s local device or within the user’s configured cloud storage solution.
 
 - User Control: Users have full control over the data they choose to manage using the extension. Through the extension’s settings, users can:
   - Select which domains to include.
   - View, manage, or delete stored data as needed.
 
-• Transparency: Any data stored or transferred by the user (e.g., cookies or authentication tokens) remains private and accessible only through the user’s chosen storage setup, such as a Webhook or Google BigQuery.
+- Transparency: Any data stored or transferred by the user (e.g., cookies or authentication tokens) remains private and accessible only through the user’s chosen storage setup, such as a Webhook or Google BigQuery.
 
 ## Policy Updates
 We are committed to keeping this privacy policy up to date. Users will be informed of any changes via:
