@@ -5,21 +5,16 @@ At **VeryGood.**, we prioritize the privacy and security of our users’ data. O
 ## Data Collection and Usage
 - No Data Collection: **VeryGood.** does not collect, process, or transmit any user data to external servers. All data interactions occur entirely on the user’s local device or within the user’s configured cloud storage solution.
 
-- User Control: Users have full control over the data they choose to manage using the extension. Through the extension’s settings, users can:
-  - Select which domains to include.
-  - View, manage, or delete stored data as needed.
+- User Control: Users have full control over the data they choose to manage using the extension.
 
-- Transparency: Any data stored or transferred by the user (e.g., cookies or authentication tokens) remains private and accessible only through the user’s chosen storage setup, such as a Webhook or Google BigQuery.
+- Transparency: Any data stored or transferred by the user (e.g., cookies or authentication tokens) remains private and accessible only through the user’s chosen storage setup, such as a Webhook.
 
 ## Policy Updates
-We are committed to keeping this privacy policy up to date. Users will be informed of any changes via:
-- An update on our Chrome Web Store listing.
-- Notifications within the extension interface.
-
-We encourage users to review the policy periodically to stay informed of any updates.
+We are committed to keeping this privacy policy up to date. Users will be informed of any changes via an update on our Chrome Web Store listing.
+_We encourage users to review the policy periodically to stay informed of any updates._
 
 ## User Responsibilities
-By using **VeryGood.**, users are responsible for ensuring their compliance with their organization’s data policies and regulations when using the extension to manage tokens and cookies. Users must configure their cloud storage solutions securely to protect sensitive data.
+By using **VeryGood.**, users are responsible for ensuring compliance with their organization’s data policies and regulations when using the extension to manage their tokens/cookies. Users must configure their cloud storage solutions securely to protect sensitive data.
 
 ## Contact Information
 For any questions, concerns, or feedback regarding this privacy policy or data handling, please contact us at:
