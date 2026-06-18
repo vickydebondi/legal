@@ -1,3 +1,4 @@
-# Privacy Policy
+### PRIVACY POLICY
 
-# Terms of Use
+### TERMS OF USE
+
