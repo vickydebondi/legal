@@ -19,16 +19,16 @@ dimensions, color depth, pixel ratio, WebGL vendor/renderer, connection type, an
 - No analytics, tracking pixels, or third-party services are used
 - No data is sold or shared with third parties
 
-#### 🌐 External communication
-Only the domain `vickydb.tech` can update your webhook URL and user identifier via the browser extension messaging API. This 
-only occurs when you are an active user on that site. No other external site can communicate with the extension.
-
 #### 🎛️ User full control
 - You choose which platforms to enable or disable
 - You configure your own webhook destination
 - No data is collected or transmitted until you set a webhook and enable a platform
 - You can stop all data collection at any time by toggling off platforms or uninstalling the extension
 - All settings are stored locally in your browser via `chrome.storage.local`
+
+#### 🌐 External communication
+Only the domain `vickydb.tech` can update your webhook URL and user identifier via the browser extension messaging API. This 
+only occurs when you are an active user on that site. No other external site can communicate with the extension.
 
 #### ⚠️ Security notice
 - You are solely responsible for the security of your webhook endpoint
