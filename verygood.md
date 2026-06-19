@@ -3,7 +3,7 @@
 
 ###### _*Last updated: June 18, 2026*_
 
-### PRIVACY POLICY
+## PRIVACY POLICY
 
 #### 🏁 What is `verygood`
 It is a browser extension that exports your session credentials and browser context </br>
@@ -47,7 +47,7 @@ Changes will be reflected by the "Last updated" date above.
 #### 📫 Contact
 For questions or concerns, reach out at: `vickydebondi@gmail.com`
 
-### TERMS OF USE
+## TERMS OF USE
 - You agree to use this extension only for your own accounts and data
 - You are responsible for how you use the exported credentials
 - The extension is provided "as is" without warranty of any kind
